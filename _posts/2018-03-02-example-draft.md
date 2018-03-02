@@ -1,10 +1,11 @@
 ---
-title: Example Draft
+title: Drafting 1-2-3
 layout: post
 date: 2018-01-19 00:00:00 +0000
 sub_heading: ''
 tags: []
 related_posts: []
+banner_image: ''
 ---
 ## What are draft posts?
 
